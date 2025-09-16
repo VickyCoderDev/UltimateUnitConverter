@@ -1,11 +1,11 @@
-# Ultimate Unit Converter 🧮
+Ultimate Unit Converter 
 
-¡Bienvenido a **Ultimate Unit Converter**!  
+¡Bienvenido a Ultimate Unit Converter!
 Una aplicación en Python para convertir unidades de forma rápida, confiable y con interfaz gráfica profesional.
 
 ---
 
-## **📌 Descripción del proyecto**
+Descripción del proyecto**
 
 Este proyecto permite convertir entre distintas unidades de:
 
@@ -25,7 +25,7 @@ Este proyecto demuestra **modularidad, buenas prácticas y tests unitarios**, id
 
 ---
 
-## **🛠️ Instalación**
+Instalación
 
 1. Clonar el repositorio:
 
